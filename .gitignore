@@ -1,0 +1,14 @@
+# Arquivos compilados
+*.o
+*.so
+*.a
+*.out
+
+# Arquivos de log, temporários e configurações
+*.log
+*.tmp
+*.json
+
+# Pastas
+
+.vscode
